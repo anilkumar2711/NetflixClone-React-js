@@ -76,3 +76,10 @@ Api_key : a8105eea454f3e4f2b7468f598c4362b
 npm install -g firebase-tools
 
 const API_KEY = "a8105eea454f3e4f2b7468f598c4362b";
+
+netflix logo = https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/170px-Netflix_2015_logo.svg.png
+
+netflix avatar logo = https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png
+
+for trailer pop-up = npm i react-youtube
+npm i movie-trailer
