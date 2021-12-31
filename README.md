@@ -83,3 +83,6 @@ netflix avatar logo = https://upload.wikimedia.org/wikipedia/commons/0/0b/Netfli
 
 for trailer pop-up = npm i react-youtube
 npm i movie-trailer
+
+Project Console: https://console.firebase.google.com/project/netflix-clone-1608a/overview
+Hosting URL: https://netflix-clone-1608a.web.app
